@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/6zd0ru.jpg",
-  "keywords": ["KHAN-MD"],
+  "name": "🇸‌🇦‌🇸‌🇭‌🇦‌ᵇᵒᵗ",
+  "description": "Javascript WhatsApp bot made by KIRA",
+  "logo": "https://i.ibb.co/mF2JNSLF/temp.jpg",
+  "keywords": ["🇸‌🇦‌🇸‌🇭‌🇦‌ᵇᵒᵗ"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -17,9 +17,9 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Your bot name (Default: KHAN-MD)",
+      "description": "Your bot name (Default: 🇸‌🇦‌🇸‌🇭‌🇦‌ᵇᵒᵗ)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "🇸‌🇦‌🇸‌🇭‌🇦‌ᵇᵒᵗ"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
@@ -27,14 +27,14 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 919188252308)",
       "required": false,
-      "value": "923427582273"
+      "value": "919188252308"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: KIRA)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "KIRA"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -74,12 +74,12 @@
     "ANTI_LINK": {
       "description": "Anti-link mode: true/warn/delete/false (Default: true)",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "ANTI_DELETE": {
       "description": "Anti delete: true/false (Default: true)",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "ANTI_DELETE_PATH": {
       "description": "Anti delete path: inbox/group/all (Default: inbox)",
@@ -109,7 +109,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Auto view status: true/false (Default: true)",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "REACT_EMOJIS": {
       "description": "Reaction emojis (comma-separated)",
@@ -149,7 +149,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/6zd0ru.jpg"
+      "value": "https://i.ibb.co/mF2JNSLF/temp.jpg"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by KIRA*"
     }
   },
   "buildpacks": [
